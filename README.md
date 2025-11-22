@@ -65,7 +65,7 @@ Shared description document for all project titles:
 ### **Internship Duration**
 
 * **Start Date:** 4 November 2025
-* **End Date:** 3 December 2025
+* **End Date:** 29 November 2025
 
 ---
 ---
